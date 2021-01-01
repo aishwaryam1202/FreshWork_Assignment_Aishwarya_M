@@ -50,7 +50,7 @@ public class FreshDesk {
             {
             System.out.println("Press 1 to create a query");
             System.out.println("Press 2 read a query");
-            System.out.println("Press 3 write a query");
+            System.out.println("Press 3 delete a query");
             
              int option=s.nextInt();
             if(option==1)
